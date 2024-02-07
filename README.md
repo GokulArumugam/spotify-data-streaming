@@ -22,7 +22,7 @@ The architecture diagram illustrates the flow and integration of various compone
 
 ## ER Diagram
 
-![ER Diagram](img/ER_Diagram.png)
+![ER Diagram](img/ER.png)
 
 The ER diagram showcases the relationships between different entities in the music database schema.
 
