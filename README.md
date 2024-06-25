@@ -437,6 +437,4 @@ def write_to_file(data, file_name):
         json.dump(data, file, indent=2)
 ```
 
-
-
-
+###NOTE: This project was built as a portfolio project and is currently not under maintenance. 
